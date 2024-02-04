@@ -1,0 +1,18 @@
+.contador {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.contador_numero {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    border-radius: 0.7rem;
+    font-size: 4rem;
+    font-weight: bold;
+    min-width: 80px;
+    text-align: center;
+}
